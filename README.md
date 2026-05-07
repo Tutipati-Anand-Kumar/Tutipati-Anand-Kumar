@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/wave.gif" width="30px"> Tutipati Anand Kumar
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Backend+Engineer;SaaS+Architecture+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
@@ -105,14 +105,14 @@ Comprehensive training on modern software development practices and backend-heav
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **MSCureChain HMS** | Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management. | Next.js, Node, MongoDB, JWT |  \| [Demo](https://www.mscurechain.com) |
-| **Tripzo** | AI-powered travel planner integrated with Gemini AI and MapQuest APIs. | Mango db, Node.js, Express.js, HTML , Gemini AI, Weather API | [Repo](https://github.com/Tutipati-Anand-Kumar/Tripzo-Fullstack-Project) \| [Demo](https://tripzo-fullstack-project.vercel.app/) |
-| **MERN Ecommerce** | Full-stack shop with cart, product management, and payment readiness. | React, Node, Express, MongoDB | [Repo](https://github.com/Tutipati-Anand-Kumar/ecommerce-frontend) \| [Demo](https://ecommerce-frontend-iota-dusky.vercel.app/) |
-| **Todo List App** | Secure task management application with full CRUD and Auth. | React, Node, Express.js, JWT | [Repo](https://github.com/Tutipati-Anand-Kumar/todo-list-frontend) \| [Demo](https://todo-list-frontend-rose.vercel.app/) |
-| **CLI Booking Systems**| Python-based CLI for movie and food ordering using SQLite. | Python, SQLite | [Food Repo](https://github.com/Tutipati-Anand-Kumar/cli-based-food-ordering-system) \| [Movie Repo](https://github.com/Tutipati-Anand-Kumar/cli-based-movie-booking-system) |
-| **Recipe App** | Modern React application for browsing and planning recipes. | React, Node, Express, MongoDB | [Repo](https://github.com/Tutipati-Anand-Kumar/recipe-frontend) \| [Demo](https://recipe-frontend-ebon-phi.vercel.app/) |
+| Project | Details | Links |
+| :--- | :--- | :--- |
+| **MSCureChain HMS** | Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management. <br> `Next.js, Node, MongoDB, JWT` | <a href="https://github.com/Tutipati-Anand-Kumar/hms-frontend" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://www.mscurechain.com" target="_blank" rel="noopener noreferrer">Demo</a> |
+| **Tripzo** | AI-powered travel planner integrated with Gemini AI and MapQuest APIs. <br> `MongoDB, Node.js, Express.js, Gemini AI` | <a href="https://github.com/Tutipati-Anand-Kumar/Tripzo-Fullstack-Project" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://tripzo-fullstack-project.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a> |
+| **MERN Ecommerce** | Full-stack shop with cart, product management, and payment readiness. <br> `React, Node, Express, MongoDB` | <a href="https://github.com/Tutipati-Anand-Kumar/ecommerce-frontend" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://ecommerce-frontend-iota-dusky.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a> |
+| **Todo List App** | Secure task management application with full CRUD and Auth. <br> `React, Node, Express.js, JWT` | <a href="https://github.com/Tutipati-Anand-Kumar/todo-list-frontend" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://todo-list-frontend-rose.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a> |
+| **CLI Booking Systems**| Python-based CLI for movie and food ordering using SQLite. <br> `Python, SQLite` | <a href="https://github.com/Tutipati-Anand-Kumar/cli-based-food-ordering-system" target="_blank" rel="noopener noreferrer">Food Repo</a> \| <a href="https://github.com/Tutipati-Anand-Kumar/cli-based-movie-booking-system" target="_blank" rel="noopener noreferrer">Movie Repo</a> |
+| **Recipe App** | Modern React application for browsing and planning recipes. <br> `React, Node, Express, MongoDB` | <a href="https://github.com/Tutipati-Anand-Kumar/recipe-frontend" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://recipe-frontend-ebon-phi.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a> |
 
 ---
 
@@ -128,15 +128,12 @@ My applications are live and battle-tested:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tutipati-Anand-Kumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tutipati-Anand-Kumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutipati-Anand-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutipati-Anand-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutipati-Anand-Kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutipati-Anand-Kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 
 <p align="center">
@@ -157,13 +154,13 @@ My applications are live and battle-tested:
 ### 📩 Let's Connect
 
 <p align="center">
-  <a href="mailto:aksl84410@gmail.com">
+  <a href="mailto:aksl84410@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/anandkumartutipati">
+  <a href="https://www.linkedin.com/in/anand-kumar-tutipati/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Tutipati-Anand-Kumar">
+  <a href="https://github.com/Tutipati-Anand-Kumar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
