@@ -107,7 +107,7 @@ Comprehensive training on modern software development practices and backend-heav
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **MSCureChain HMS** | Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management. | Next.js, Node, MongoDB, JWT | [Repo](https://github.com/Tutipati-Anand-Kumar/hms-frontend) \| [Demo](https://www.mscurechain.com) |
+| **MSCureChain HMS** | Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management. | Next.js, Node, MongoDB, JWT |  \| [Demo](https://www.mscurechain.com) |
 | **Tripzo** | AI-powered travel planner integrated with Gemini AI and MapQuest APIs. | React, Gemini AI, Weather API | [Repo](https://github.com/Tutipati-Anand-Kumar/Tripzo-Fullstack-Project) \| [Demo](https://tripzo-fullstack-project.vercel.app/) |
 | **MERN Ecommerce** | Full-stack shop with cart, product management, and payment readiness. | React, Node, Express, MongoDB | [Repo](https://github.com/Tutipati-Anand-Kumar/ecommerce-frontend) \| [Demo](https://ecommerce-frontend-iota-dusky.vercel.app/) |
 | **Todo List App** | Secure task management application with full CRUD and Auth. | React, Node, JWT | [Repo](https://github.com/Tutipati-Anand-Kumar/todo-list-frontend) \| [Demo](https://todo-list-frontend-rose.vercel.app/) |
