@@ -107,7 +107,7 @@ Comprehensive training on modern software development practices and backend-heav
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **MSCureChain HMS** | Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management. | Next.js, Node, MongoDB, JWT | [Repo](https://github.com/Tutipati-Anand-Kumar/hms-frontend) \| [Demo](www.mscurechain.com) |
+| **MSCureChain HMS** | Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management. | Next.js, Node, MongoDB, JWT | [Repo](https://github.com/Tutipati-Anand-Kumar/hms-frontend) \| [Demo](https://www.mscurechain.com) |
 | **Tripzo** | AI-powered travel planner integrated with Gemini AI and MapQuest APIs. | React, Gemini AI, Weather API | [Repo](https://github.com/Tutipati-Anand-Kumar/Tripzo-Fullstack-Project) \| [Demo](https://tripzo-fullstack-project.vercel.app/) |
 | **MERN Ecommerce** | Full-stack shop with cart, product management, and payment readiness. | React, Node, Express, MongoDB | [Repo](https://github.com/Tutipati-Anand-Kumar/ecommerce-frontend) \| [Demo](https://ecommerce-frontend-iota-dusky.vercel.app/) |
 | **Todo List App** | Secure task management application with full CRUD and Auth. | React, Node, JWT | [Repo](https://github.com/Tutipati-Anand-Kumar/todo-list-frontend) \| [Demo](https://todo-list-frontend-rose.vercel.app/) |
@@ -128,19 +128,19 @@ My applications are live and battle-tested:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tutipati-Anand-Kumar&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tutipati-Anand-Kumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutipati-Anand-Kumar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutipati-Anand-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutipati-Anand-Kumar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutipati-Anand-Kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tutipati-Anand-Kumar&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tutipati-Anand-Kumar&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15&rank=A,B,C,S" alt="GitHub Trophies" />
 </p>
 
 ---
