@@ -1,15 +1,13 @@
-# <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/wave.gif" width="30px"> Tutipati Anand Kumar
-
-<p align="center">
+<div align="center">
+  <h1><img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/wave.gif" width="30px"> Tutipati Anand Kumar</h1>
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Backend+Engineer;SaaS+Architecture+Enthusiast" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <strong>Full Stack Developer | MERN Stack Developer | Backend Engineer | SaaS Architecture Enthusiast</strong><br>
-  <em>Building scalable, high-performance systems with clean architecture.</em>
-</p>
+  <p>
+    <strong>Full Stack Developer | MERN Stack Specialist | Backend Engineer</strong><br>
+    <em>Building scalable, high-performance systems with clean architecture.</em>
+  </p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -105,14 +103,43 @@ Comprehensive training on modern software development practices and backend-heav
 
 ### 📂 Featured Projects
 
-| Project | Details | Links |
-| :--- | :--- | :--- |
-| **MSCureChain HMS** | Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management. <br> `Next.js, Node, MongoDB, JWT` | <a href="https://github.com/Tutipati-Anand-Kumar/hms-frontend" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://www.mscurechain.com" target="_blank" rel="noopener noreferrer">Demo</a> |
-| **Tripzo** | AI-powered travel planner integrated with Gemini AI and MapQuest APIs. <br> `MongoDB, Node.js, Express.js, Gemini AI` | <a href="https://github.com/Tutipati-Anand-Kumar/Tripzo-Fullstack-Project" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://tripzo-fullstack-project.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a> |
-| **MERN Ecommerce** | Full-stack shop with cart, product management, and payment readiness. <br> `React, Node, Express, MongoDB` | <a href="https://github.com/Tutipati-Anand-Kumar/ecommerce-frontend" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://ecommerce-frontend-iota-dusky.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a> |
-| **Todo List App** | Secure task management application with full CRUD and Auth. <br> `React, Node, Express.js, JWT` | <a href="https://github.com/Tutipati-Anand-Kumar/todo-list-frontend" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://todo-list-frontend-rose.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a> |
-| **CLI Booking Systems**| Python-based CLI for movie and food ordering using SQLite. <br> `Python, SQLite` | <a href="https://github.com/Tutipati-Anand-Kumar/cli-based-food-ordering-system" target="_blank" rel="noopener noreferrer">Food Repo</a> \| <a href="https://github.com/Tutipati-Anand-Kumar/cli-based-movie-booking-system" target="_blank" rel="noopener noreferrer">Movie Repo</a> |
-| **Recipe App** | Modern React application for browsing and planning recipes. <br> `React, Node, Express, MongoDB` | <a href="https://github.com/Tutipati-Anand-Kumar/recipe-frontend" target="_blank" rel="noopener noreferrer">Repo</a> \| <a href="https://recipe-frontend-ebon-phi.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a> |
+### 📂 Featured Projects
+
+<details open>
+<summary><b>Click to expand projects</b></summary>
+<br>
+
+- 🚀 **MSCureChain HMS**
+  - Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management.
+  - **Tech:** `Next.js, Node, MongoDB, JWT`
+  - 🔗 <a href="https://github.com/Tutipati-Anand-Kumar/hms-frontend" target="_blank" rel="noopener noreferrer">Repository</a> | <a href="https://www.mscurechain.com" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
+- ✈️ **Tripzo**
+  - AI-powered travel planner integrated with Gemini AI and MapQuest APIs.
+  - **Tech:** `MongoDB, Node.js, Express.js, Gemini AI`
+  - 🔗 <a href="https://github.com/Tutipati-Anand-Kumar/Tripzo-Fullstack-Project" target="_blank" rel="noopener noreferrer">Repository</a> | <a href="https://tripzo-fullstack-project.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
+- 🛒 **MERN Ecommerce**
+  - Full-stack shop with cart, product management, and payment readiness.
+  - **Tech:** `React, Node, Express, MongoDB`
+  - 🔗 <a href="https://github.com/Tutipati-Anand-Kumar/ecommerce-frontend" target="_blank" rel="noopener noreferrer">Repository</a> | <a href="https://ecommerce-frontend-iota-dusky.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
+- ✅ **Todo List App**
+  - Secure task management application with full CRUD and Auth.
+  - **Tech:** `React, Node, Express.js, JWT`
+  - 🔗 <a href="https://github.com/Tutipati-Anand-Kumar/todo-list-frontend" target="_blank" rel="noopener noreferrer">Repository</a> | <a href="https://todo-list-frontend-rose.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
+- 🍳 **Recipe App**
+  - Modern React application for browsing and planning recipes.
+  - **Tech:** `React, Node, Express, MongoDB`
+  - 🔗 <a href="https://github.com/Tutipati-Anand-Kumar/recipe-frontend" target="_blank" rel="noopener noreferrer">Repository</a> | <a href="https://recipe-frontend-ebon-phi.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
+- 💻 **CLI Booking Systems**
+  - Python-based CLI for movie and food ordering using SQLite.
+  - **Tech:** `Python, SQLite`
+  - 🔗 <a href="https://github.com/Tutipati-Anand-Kumar/cli-based-food-ordering-system" target="_blank" rel="noopener noreferrer">Food Repo</a> | <a href="https://github.com/Tutipati-Anand-Kumar/cli-based-movie-booking-system" target="_blank" rel="noopener noreferrer">Movie Repo</a>
+
+</details>
 
 ---
 
