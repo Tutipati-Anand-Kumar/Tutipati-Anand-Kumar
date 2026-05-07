@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Samalkot%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience-5%2B%20Months-green?style=for-the-badge&logo=workplace&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Tutipati-Anand-Kumar&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
