@@ -112,7 +112,7 @@ Comprehensive training on modern software development practices and backend-heav
 - 🚀 **MSCureChain HMS**
   - Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management.
   - **Tech:** `Next.js, Node, MongoDB, JWT`
-  - 🔗 <a href="https://github.com/Tutipati-Anand-Kumar/hms-frontend" target="_blank" rel="noopener noreferrer">Repository</a> | <a href="https://www.mscurechain.com" target="_blank" rel="noopener noreferrer">Live Demo</a>
+  - 🔗  | <a href="https://www.mscurechain.com" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
 - ✈️ **Tripzo**
   - AI-powered travel planner integrated with Gemini AI and MapQuest APIs.
