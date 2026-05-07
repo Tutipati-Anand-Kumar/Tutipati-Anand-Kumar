@@ -1,142 +1,175 @@
-# Tutipati Anand Kumar
+# <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/wave.gif" width="30px"> Tutipati Anand Kumar
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Engineer;MERN+Stack+Developer;Full+Stack+Developer;SaaS+Workflow+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Backend+Engineer;SaaS+Architecture+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <strong>MERN Stack Developer with a focus on Backend Engineering and SaaS Architectures</strong><br>
-  Building secure, role-based systems and multi-tenant applications.
+  <strong>Full Stack Developer | MERN Stack Developer | Backend Engineer | SaaS Architecture Enthusiast</strong><br>
+  <em>Building scalable, high-performance systems with clean architecture.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-5%20Months%20(Real--time)-green?style=flat-square&logo=workplace&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Tutipati-Anand-Kumar&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Months-green?style=for-the-badge&logo=workplace&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Tutipati-Anand-Kumar&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-### 🛠️ About Me
+### 🚀 About Me
 
-I am a Full Stack Developer specialized in the **MERN stack**, with a strong emphasis on **Backend Engineering**. My professional experience includes developing multi-tenant SaaS applications, where I focused on implementing complex role-based access control (RBAC), secure authentication, and data-driven workflows.
+I am a results-driven **Full Stack Developer** with a specialization in the **MERN stack** and a deep-rooted passion for **Backend Engineering**. My expertise lies in designing and implementing **multi-tenant SaaS architectures**, as demonstrated by my work on production-grade Healthcare systems.
 
-- **Professional Experience:** 5 months as a Full Stack Developer at MS Tech Hive, working on a production-grade HMS SaaS.
-- **Academic Foundation:** 9 months of intensive Python Full Stack training at QSpiders.
-- **Core Focus:** Designing RESTful APIs, optimizing MongoDB schemas, and implementing secure JWT-based authentication.
+- 🛠️ **Backend Mindset:** Focused on building robust, scalable, and secure server-side logic.
+- 🏗️ **Architecture:** Enthusiastic about clean code, SOLID principles, and microservices.
+- 🏥 **Domain Expertise:** Experience in building complex Hospital Management Systems (HMS) with intricate workflows.
+- 🔄 **Agile Practitioner:** Proficient in working within Agile environments to deliver iterative value.
 
 ---
 
-### 💼 Professional Experience
+### 💼 Real-Time Experience
 
 #### **MS Tech Hive** — *Full Stack Developer*
-*Jan 2024 – May 2024*
+**Duration:** 5 Months  
+**Project:** **MSCureChain HMS SaaS**
 
-**Project: MSCureChain (Hospital Management SaaS)**  
-Worked on a production-ready, multi-tenant platform managing complex hospital workflows.
-- **Authentication & Security:** Implemented **JWT-based authentication** and data isolation for multi-tenant environments.
-- **Authorization:** Developed a robust **RBAC (Role-Based Access Control)** system supporting 11 distinct user roles.
-- **Module Development:** Built and integrated workflows for patient management, inventory, billing, pharmacy, and laboratory modules.
-- **API Design:** Developed and maintained **REST APIs** using Node.js and Express to handle hospital-specific data transactions.
+Built a production-grade, multi-tenant Hospital Management SaaS platform from the ground up.
+- **Role-Based Access Control (RBAC):** Implemented a complex authorization system with **11 distinct user roles**.
+- **Security:** Integrated secure **JWT-based authentication** for cross-tenant data isolation.
+- **Workflows:** Developed end-to-end hospital workflows including Patient Management, Inventory, Billing, Pharmacy, and Lab Management.
+- **Tech Stack:** Next.js, TypeScript, Node.js, Express, MongoDB, REST APIs.
 
 ---
 
-### 🎓 Technical Training
+### 🎓 Training & Certifications
 
 #### **QSpiders** — *Python Full Stack Development*
-*9-Month Intensive Program*
+**Duration:** 9 Months
 
-- **Backend:** Python, Django, SQL (PostgreSQL/MySQL/SQLite).
-- **Frontend:** JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
-- **Systems:** Focused on full-stack integration and database management.
-
----
-
-### 🎯 Current Technical Focus
-
-- **RBAC Workflows:** Refining role-based permissions and access levels in multi-tenant systems.
-- **Backend Architecture:** Exploring patterns for scalable RESTful services and clean directory structures.
-- **SaaS Logic:** Implementing multi-tenant data isolation and subscription-based logic.
-- **API Optimization:** Improving response times and implementing efficient MongoDB aggregation pipelines.
+Comprehensive training on modern software development practices and backend-heavy systems.
+- **Core Skills:** Python, Django, JavaScript, SQL.
+- **Web Technologies:** HTML5, CSS3, Responsive Design.
+- **Integration:** Mastered full-stack integration and database management.
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, Redux, Zustand |
-| **Backend** | Node.js, Express.js, Python, Django |
-| **Database** | MongoDB, PostgreSQL, MySQL, SQLite |
-| **Auth & APIs** | JWT, REST API, Postman |
-| **Dev Tools** | Git, GitHub, Docker, Redis |
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=react&logoColor=white" />
+</details>
+
+<details open>
+<summary><b>Backend & API</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</details>
+
+<details open>
+<summary><b>Databases & Caching</b></summary>
+<br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</details>
+
+<details open>
+<summary><b>DevOps & Tools</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</details>
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Engineering Highlights | Tech Stack |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **MSCureChain HMS** | Multi-tenant SaaS with 11 user roles, RBAC, and secure JWT isolation. | Next.js, Node, MongoDB |
-| **Tripzo AI** | Travel planner integrated with Gemini AI, OpenWeatherMap, and MapQuest APIs. | React, Node, AI APIs |
-| **MERN Ecommerce** | Full-stack platform featuring cart management, auth, and product CRUD. | React, Express, MongoDB |
-| **Todo MERN** | Task management application with persistent storage and user authentication. | React, Node, JWT |
-| **Python CLI Systems** | Modular CLI applications for movie booking and food ordering with SQLite. | Python, SQLite |
+| **MSCureChain HMS** | Multi-tenant Hospital Management SaaS with RBAC, billing, and lab management. | Next.js, Node, MongoDB, JWT |
+| **Tripzo** | AI-powered travel planner integrated with Gemini AI and MapQuest APIs. | React, Gemini AI, Weather API |
+| **MERN Ecommerce** | Full-stack shop with cart, product management, and payment readiness. | React, Node, Express, MongoDB |
+| **Todo List App** | Secure task management application with full CRUD and Auth. | React, Node, JWT |
+| **CLI Booking Systems** | Python-based CLI for movie and food ordering using SQLite. | Python, SQLite |
 
 ---
 
-### 🌐 Deployments
+### 🌐 Deployment Status
 
-My applications are actively deployed and accessible for review:
-- **Frontend:** Deployed on **Vercel** for optimized performance and edge delivery.
-- **Backend:** Hosted on **Render**, managing live API endpoints and database connections.
-- **Evidence:** Production-style deployments for MERN and Python-based applications are live.
+My applications are live and battle-tested:
+- **Frontend:** Primarily deployed on **Vercel** for high availability and performance.
+- **Backend:** Distributed across **Render** and other cloud providers for reliable API services.
+- **Continuity:** Integrated CI/CD pipelines ensure seamless updates to production-style apps.
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tutipati-Anand-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tutipati-Anand-Kumar&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutipati-Anand-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutipati-Anand-Kumar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutipati-Anand-Kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutipati-Anand-Kumar&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tutipati-Anand-Kumar&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🏆 Key Achievements
+### 🏆 Achievements
 
-- **Project Expo Prize:** Awarded for technical implementation and presentation of core project logic.
-- **Academic Merit:** 10 GPA (10th Standard) and recipient of the NMMS Scholarship.
-- **Treasure Hunt Winner:** Recognized for logical reasoning and collaborative problem-solving.
+- 🥇 **Project Expo Prize:** Recognized for technical excellence in project implementation.
+- 🕵️ **Treasure Hunt Winner:** Strategic problem-solving and team collaboration.
+- 🎓 **Academic Excellence:** Achieved a perfect **10 GPA** in 10th Standard.
+- 📜 **NMMS Scholarship:** Recipient of National Means-cum-Merit Scholarship.
 
 ---
 
-### 📩 Contact & Socials
+### 📩 Let's Connect
 
 <p align="center">
   <a href="mailto:aksl84410@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/anandkumartutipati">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Tutipati-Anand-Kumar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Refining backend systems and SaaS workflows.</em><br>
-  <strong>Tutipati Anand Kumar</strong>
+  <em>"The best way to predict the future is to invent it." — Alan Kay</em><br>
+  <strong>Designed with ❤️ by Tutipati Anand Kumar</strong>
 </p>
